@@ -37,6 +37,7 @@ Resource types:
 - [HTMLDog - HTML Beginner](http://www.htmldog.com/guides/html/beginner/) 📝 🎁
 - [FrontEnd Masters Bootcamp](https://frontendmasters.com/bootcamp/) 📹🎁
 - [HTML5 Periodic Table](https://websitesetup.org/html5-periodical-table/) 📝🎁
+- [Scaler HTML Reference](https://www.scaler.com/topics/html/) 📝🎁
 
 ### CSS
 
@@ -83,6 +84,7 @@ Resource types:
 - [Object Explorer](https://sdras.github.io/object-explorer/) 🎮 🎁
 - [HTMLDog - JavaScript Beginner](http://www.htmldog.com/guides/javascript) 📝 🎁
 - [JavaScript for Beginners - Udacity](https://www.udacity.com/course/intro-to-javascript--ud803) 📹 🎁
+- [Learn JavaScript - The easiest way to learn & pracice modern JavaScript](https://learnjavascript.online/) 🎮 🎁
 
 ### GIT
 
@@ -95,6 +97,7 @@ Resource types:
 - [Git Interactive](https://www.katacoda.com/courses/git) 🎮 🎁
 - [Pro Git Book](https://git-scm.com/book/en/v2) 📚 🎁
 - [Git Branching](https://learngitbranching.js.org/) 🎮 🏆
+- [Git Notes for professionals](https://books.goalkicker.com/GitBook/) 📚 🎁
 
 ## Mid Level Front End Development
 
@@ -158,6 +161,7 @@ Resource types:
 - [React Podcast](https://changelog.com/reactpodcast) 🎤 🎁
 - [React for Beginners](https://reactforbeginners.com/) 📹 💰
 - [Leigh Halliday Blog](https://www.leighhalliday.com/) 📝 🎁
+- [Learn React for free](https://scrimba.com/learn/learnreact) 🎮 🎁
 
 ### Vue
 
@@ -221,6 +225,8 @@ Resource types:
 - [Music Boxes](https://googlecreativelab.github.io/coder-projects/projects/music_boxes/)
 - [Two Puppy](https://googlecreativelab.github.io/coder-projects/projects/two_puppy/)
 - [Create a Game: Breakout](https://billmill.org/static/canvastutorial/index.html)
+- [Easybank Landing Page](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN)
+- [IP Adress Tracker](https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0)
 
 ### Web Animations
 
